@@ -71,7 +71,7 @@ Bugün su içtin mi?</string>
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="addWaterButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="03M-WY-ngV"/>
+                                                    <action selector="addWaterButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hNS-q7-P3P"/>
                                                     <action selector="glassButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="91Y-Go-H4G"/>
                                                 </connections>
                                             </button>
@@ -104,7 +104,7 @@ Bugün su içtin mi?</string>
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="addWaterButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="m1c-UO-re8"/>
+                                                    <action selector="addWaterButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nds-we-nHo"/>
                                                     <action selector="secondButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SrM-1N-sw2"/>
                                                 </connections>
                                             </button>
@@ -137,7 +137,7 @@ Bugün su içtin mi?</string>
                                                     </userDefinedRuntimeAttribute>
                                                 </userDefinedRuntimeAttributes>
                                                 <connections>
-                                                    <action selector="addWaterButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QBW-8O-QS6"/>
+                                                    <action selector="addWaterButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Hh7-tc-Nk2"/>
                                                     <action selector="thirdButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hxm-On-dAd"/>
                                                 </connections>
                                             </button>
