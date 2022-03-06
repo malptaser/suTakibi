@@ -12,6 +12,10 @@ class WaterTrackerController: UIViewController {
     
     // MARK: - UI Elements
     
+    @IBOutlet weak var titleLabel: UILabel!
+    @IBOutlet weak var subtitleLabel: UILabel!
+    @IBOutlet weak var addWaterConstraint: NSLayoutConstraint!
+    
     // MARK: - Properties
     
     // MARK: - Life Cycle
@@ -20,4 +24,13 @@ class WaterTrackerController: UIViewController {
     }
     
     // MARK: - Actions
+
+    @IBAction func firstButton(_ sender: Any) {
+    }
+    
+    @IBAction func secondButton(_ sender: Any) {
+    }
+    
+    @IBAction func thirdButton(_ sender: Any) {
+    }
 }
